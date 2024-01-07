@@ -4,4 +4,6 @@ Flow:
 Data archive strategy
   create table to archive
   pull data from table in a loop and parse in Procedure
+  Create table to log the procedure activity.
+  
   
