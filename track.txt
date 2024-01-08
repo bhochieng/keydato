@@ -7,5 +7,7 @@ Data archive strategy
   Create table to log the procedure activity.
   Retain log of 5 days max
   Schedule job
+Pending items... 
+  sms copy, bingwa sokoni. 
   
   
