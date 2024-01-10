@@ -6,7 +6,6 @@ Data archive strategy
   pull data from table in a loop and parse in Procedure
   Create table to log the procedure activity.
   Retain log of 5 days max
-  Schedule job
 Pending items... 
   sms copy, bingwa sokoni. 
   
